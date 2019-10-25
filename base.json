@@ -12,13 +12,13 @@
             "height": 360,
             "type": "application/vnd.apple.mpegurl",
             "file": "https://minifreeza.com/live/TVTokyo_360p/playlist.m3u8",
-            "label": "H.264 360px"
+            "label": "H.264 480px"
         }, {
             "width": 284,
             "height": 180,
             "type": "application/vnd.apple.mpegurl",
             "file": "https://minifreeza.com/live/TVTokyo_160p/playlist.m3u8",
-            "label": "H.264 180px"
+            "label": "H.264 320px"
         }]
     }, 
 
