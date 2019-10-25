@@ -8,6 +8,7 @@
         "sources": [{
             "type": "application/vnd.apple.mpegurl",
             "file": "https://minifreeza.com/live/TVTokyo/playlist.m3u8"
+                   }]
         },
         
         {
