@@ -5,9 +5,9 @@
     <title>Sintel Trailer</title>
     <description>Sintel is a fantasy CGI movie from the Blender Open Movie Project.</description>
     <jwplayer:image>/assets/sintel.jpg</jwplayer:image>
-    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/720p.mp4" label="High" />
-    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/480p.mp4" label="Mid" />
-    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/360p.mp4" label="Low" />
+    <jwplayer:source file="https://videos-fms.jwpsrv.com/content/conversions/bA3mO6JQ/videos/rl0hDdBq-22788893.mp4.m3u8?token=0_5db33f60_0xc70d0ef4397fd9c1e393ca7594b938a57a94d5ed" label="High" />
+    <jwplayer:source file="https://videos-fms.jwpsrv.com/content/conversions/bA3mO6JQ/videos/rl0hDdBq-22788893.mp4.m3u8?token=0_5db33f60_0xc70d0ef4397fd9c1e393ca7594b938a57a94d5ed" label="Mid" />
+    <jwplayer:source file="https://videos-fms.jwpsrv.com/content/conversions/bA3mO6JQ/videos/rl0hDdBq-22788893.mp4.m3u8?token=0_5db33f60_0xc70d0ef4397fd9c1e393ca7594b938a57a94d5ed" label="Low" />
   </item>
 
   <item>
