@@ -19,15 +19,15 @@
     </media:content>
   </item>
   <item>
-    <title>The Drill: Three-sport star Stamer enjoys whatever is in season</title>
-    <description>This week&#39;s episode features Adrian High School football, basketball and baseball player Ian Stamer.</description>
-    <pubDate>Sun, 09 Jun 2019 23:09:44 -0000</pubDate>
+    <title>TV Tokyo</title>
+    <description>Just a test</description>
+    <pubDate></pubDate>
     <enclosure url="https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" type="	application/vnd.apple.mpegurl" />
-    <itunes:duration>164</itunes:duration>
-    <itunes:keywords>dglobe.com,thedrill</itunes:keywords>
+    <itunes:duration></itunes:duration>
+    <itunes:keywords></itunes:keywords>
     <media:content url="https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8" type="	application/vnd.apple.mpegurl">
-      <media:thumbnail url="http://content.jwplatform.com/v2/media/i5htLZMq/poster.jpg?width=720" width="720"/>
-      <media:keywords>dglobe.com,thedrill</media:keywords>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" width="720"/>
+      <media:keywords></media:keywords>
     </media:content>
   </item>
 </channel>
