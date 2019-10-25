@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<channel>
+
+  <item>
+    <title>Sintel Trailer</title>
+    <description>Sintel is a fantasy CGI movie from the Blender Open Movie Project.</description>
+    <jwplayer:image>/assets/sintel.jpg</jwplayer:image>
+    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/720p.mp4" label="High" />
+    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/480p.mp4" label="Mid" />
+    <jwplayer:source file="https://d2m23yiuv18ohn.cloudfront.net/Video/bG8s2lVNRVnO7g8725hsdg/360p.mp4" label="Low" />
+  </item>
+
+  <item>
+    <title>Elephants Dream Trailer</title>
+    <description>This is the worlds first open movie, made entirely with Blender.</description>
+    <jwplayer:image>/assets/elephants.jpg</jwplayer:image>
+    <jwplayer:source file="https://d2qguwbxlx1sbt.cloudfront.net/TextInMotion-VideoSample-1080p.mp4" label="High" />
+    <jwplayer:source file="https://d2qguwbxlx1sbt.cloudfront.net/TextInMotion-VideoSample-720p.mp4" label="Mid" />
+    <jwplayer:source file="https://d2qguwbxlx1sbt.cloudfront.net/TextInMotion-VideoSample-576p.mp4" label="Low" />
+  </item>
+
+</channel>
+</rss>
