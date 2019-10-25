@@ -13,7 +13,7 @@
     <enclosure url="https://minifreeza.com/live/tvtokyo/playlist.m3u8" type="application/vnd.apple.mpegurl" />
     <itunes:duration></itunes:duration>
     <itunes:keywords></itunes:keywords>
-    <media:content url="https://minifreeza.com/live/tvtokyo/playlist.m3u8" type="application/vnd.apple.mpegurl" duration="201.50" fileSize="103693099" >
+    <media:content url="https://minifreeza.com/live/TVTokyo/playlist.m3u8" type="application/vnd.apple.mpegurl" duration="201.50" fileSize="103693099" >
       <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" width="720"/>
       <media:keywords>TVTokyo,Anime,Japan</media:keywords>
     </media:content>
@@ -25,7 +25,7 @@
     <enclosure url="https://minifreeza.com/live/fujitv/playlist.m3u8" type="application/vnd.apple.mpegurl" />
     <itunes:duration></itunes:duration>
     <itunes:keywords></itunes:keywords>
-    <media:content url="https://minifreeza.com/live/fujitv/playlist.m3u8" type="application/vnd.apple.mpegurl">
+    <media:content url="https://minifreeza.com/live/Fujitv/playlist.m3u8" type="application/vnd.apple.mpegurl">
       <media:thumbnail url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZIAAAB9CAMAAAC/ORUrAAAA51BMVEX///8jGBUAAADlACggFBG6t7YoGxcVAACAfHvFw8Ls6+sMAAAYCABtaGfj4uEnHRkbDglWT02qqKfjAADz8/PPz8/5+fny8fFBQUGhoaFvb2/c3NxjXlyPi4rlACIPAABaWlosLCwTExOYmJghEQkfHx8vLy/Ly8uTj44yKSd7dnS+vLs3NzdcXFyEhISvr69GPjzkABP84uYkJCRLS0s8NDLkAADtZ3f5z9X4wcnznafmDTBwa2lORkQQEBBfWVf1r7fve4foMEnqP1fsXG3xjpr97O/pTFzvb4DnHTvylqHwh5P95+yqrZirAAANLUlEQVR4nO1daWPithYFxcRgljgEGwxJSCAJa1gmw0ynEyZpp+170/b//56HtXlBkiVjAm+i8w28yTq6q67kXE5DQ0NDQ0NDQ0NDQ0NDQ0NDQ+N9YfDYGrqHboRGCDPgo3boZmhQtCEjoHjodmgQFBAjj86hG6KB0biHjGhCjgceZGRw6Ga8Mzj9m4dvNyXmMXcKtdYbt+idY440EwBMN7cDDxXeulHvGYMeJgTMmMfrqR1g7TSnQ5sQAuaCE1rqceL8ETzp6DIFHMzHA4eQXO6jf7iqet8JZLKnOVHHBBIy5ftTbitNlHhFRG+31r1LNGHHDQUn3PoneEo3bbSIdWrs2Lx3iVlCHFjrKTtcDeQw9NhOtUYi0Ii2eIdTUALlCtzs3LJ3iwbswBbvsDoljwKPWkMKJdiFfc7RxlSREk8zsjuGsBM77IOqlDiakSwAQ4+p6KA0JTU9s5IJGqKRfeMfq0veye0JDZOGNAYCT7gqsjRxINOuo5EMUPR78pZ5aKZgG0oJQY6GAh64JgB6UG25u9xr054d0KwIK9UFlZrcDNZU5CZoqKLPy9x2pJPzc3EeQEMVU47qakJt5JXq9X7d8+YFh9fnFlDxzTSS0WGbZmf2DcRx254zAssp30XQSAfoWj1F/hqMt+igaE+iygxNCOvsb6aAGiqYOrH6fD4QbkLugAv/+XiAZv/MQFEFLmJwHpMI8fFApQLNu2jbnjEgC9DfdT5uSUTH8lErzb0IWQ/I+iDbrnNbWYMEJxZDQu6boRPdSTFEli8aMO0y1dUPYszrFBPJS6D2ac3CVLTnDpp3jM/bOuFyI6TzOPl9DQx3BcoY4FLymmZMMjzYyRb+GQ85XGr/W0+QvWxf4OeDuzDyGJVn2YvCTlabDnoP/7MtBRGnTNv2BGykhEJWSvAMlI/HUPloAxU4gKvtC6wbesXh0o1W8KaK5U1vjFKBQnYlQuOJvFlkGtHCfzPLver4im+HmyWxANEH+TLVru6koALU+gH5qSLxVhFjnL0xbZAS+lhVNlrPwDPfHXyVgPeiLIaFZvTKy7vTLZjxocGkpGkABZTRu12S3ypZiJrdNSGyz124lJG4+Nf5QpILDAp/jADc5kR0N0o2MhwuK8YWynEFalFHphy0vDmitjQZRh49tVrBzCpRcoaflDklbis0aqbRu5ee+JO9dXoRV9or8p2Tr0QCzkt7+4xunBLXo+6+R/OmR0iJu6YyfyflcVUxGfdqdtINMsXc2SsVSjZv9hJcKUUJE8dIycImkm7KrEVA1Vyb4MJJGvNRhP3gMeccNUry5WAI/WSUKMUlDmGEVAnLLrzC9aZCq2huGwQGgh4CNN0gZUuYaJZVzDs2hHum5Cx43ov4VB89eCJMrs9UpAQJ1wOhlH0Sw23axh0ARCTsNblSyuPKDsdk3hENPeido3hR8r2Rfzwgq3x2ihc7C6Lh1AqP3FB8sVtocESUWGHphZGGpHVHwgHLG5XUHRvuCr+cqZTmzy56PyJK0IRukFeUzrK3iZCQksndco8THPTZ5ypXMUPFVNiNknKhaSVDrm+bwVhXA3K3sPN7s7uYWNjIG6tm8snBVUdCSV7Ko5CbKe" width="720"/>
       <media:keywords>Fujitv,Anime,Japan</media:keywords>
     </media:content>
