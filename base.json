@@ -2,23 +2,23 @@
     "playlist": [
         {
         "mediaid": "ABCDEFG",
-        "title": "TV Tokyo",
-        "description": "Une chaine Japonaise pas comme les autres :)",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",
+        "title": "NHK World",
+        "description": "Une chaine Japonaise de News",
+        "image": "https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png",
         "sources": [{
             "type": "application/vnd.apple.mpegurl",
-            "file": "https://minifreeza.com/live/TVTokyo/playlist.m3u8"
+            "file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_high2_s.m3u8"
                    }]
         },
         
         {
         "mediaid": "EEEEEE",
-        "title": "A&E",
-        "description": "Englishu channel",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",
+        "title": "ABC News",
+        "description": "Une chaine Américaine de News",
+        "image": "https://s.abcnews.com/images/Video/ABCN_StreamingNow_v01_GL_hpMain_16x9_992.jpg",
         "sources": [{
             "type": "application/vnd.apple.mpegurl",
-            "file": "https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8"
+            "file": "https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8"
                    }]
         }
         
