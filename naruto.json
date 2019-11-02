@@ -1,0 +1,158 @@
+{
+    "playlist": [
+        {
+        "mediaid": "Ship001",
+        "title": "Naruto Shippuden 01",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-1-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship002",
+        "title": "Naruto Shippuden 02",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-2-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship003",
+        "title": "Naruto Shippuden 03",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-3-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship004",
+        "title": "Naruto Shippuden 04",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-4-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship005",
+        "title": "Naruto Shippuden 05",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-5-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship006",
+        "title": "Naruto Shippuden 06",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-6-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship007",
+        "title": "Naruto Shippuden 07",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-7-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship008",
+        "title": "Naruto Shippuden 08",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-8-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship009",
+        "title": "Naruto Shippuden 09",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-9-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship010",
+        "title": "Naruto Shippuden 10",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-10-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship011",
+        "title": "Naruto Shippuden 11",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-11-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship012",
+        "title": "Naruto Shippuden 12",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-12-1080p.mp4"
+                   }]
+        },
+        
+         {
+        "mediaid": "Ship013",
+        "title": "Naruto Shippuden 13",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-13-1080p.mp4"
+                   }]
+        },
+        
+        {
+        "mediaid": "Ship014",
+        "title": "Naruto Shippuden 14",
+        "description": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "sources": [{
+            "type": "video/mp4",
+            "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-14-1080p.mp4"
+                   }]
+        },
+        
+    ]
+}
