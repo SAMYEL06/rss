@@ -1,7 +1,7 @@
 {
     "playlist": [
         {
-        "mediaid": "Ship001",
+        "mediaid": "SHI001",
         "title": "Naruto Shippuden 01",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -12,7 +12,7 @@
         },
         
         {
-        "mediaid": "Ship002",
+        "mediaid": "SHI002",
         "title": "Naruto Shippuden 02",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -23,7 +23,7 @@
         },
         
          {
-        "mediaid": "Ship003",
+        "mediaid": "SHI003",
         "title": "Naruto Shippuden 03",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -34,7 +34,7 @@
         },
         
         {
-        "mediaid": "Ship004",
+        "mediaid": "SHI004",
         "title": "Naruto Shippuden 04",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -45,7 +45,7 @@
         },
         
          {
-        "mediaid": "Ship005",
+        "mediaid": "SHI005",
         "title": "Naruto Shippuden 05",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -56,7 +56,7 @@
         },
         
         {
-        "mediaid": "Ship006",
+        "mediaid": "SHI006",
         "title": "Naruto Shippuden 06",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -67,7 +67,7 @@
         },
         
          {
-        "mediaid": "Ship007",
+        "mediaid": "SHI007",
         "title": "Naruto Shippuden 07",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -78,7 +78,7 @@
         },
         
         {
-        "mediaid": "Ship008",
+        "mediaid": "SHI008",
         "title": "Naruto Shippuden 08",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -89,7 +89,7 @@
         },
         
          {
-        "mediaid": "Ship009",
+        "mediaid": "SHI009",
         "title": "Naruto Shippuden 09",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -100,7 +100,7 @@
         },
         
         {
-        "mediaid": "Ship010",
+        "mediaid": "SHI010",
         "title": "Naruto Shippuden 10",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -111,7 +111,7 @@
         },
         
          {
-        "mediaid": "Ship011",
+        "mediaid": "SHI011",
         "title": "Naruto Shippuden 11",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -122,7 +122,7 @@
         },
         
         {
-        "mediaid": "Ship012",
+        "mediaid": "SHI012",
         "title": "Naruto Shippuden 12",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -133,7 +133,7 @@
         },
         
          {
-        "mediaid": "Ship013",
+        "mediaid": "SHI013",
         "title": "Naruto Shippuden 13",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -144,7 +144,7 @@
         },
         
         {
-        "mediaid": "Ship014",
+        "mediaid": "SHI014",
         "title": "Naruto Shippuden 14",
         "description": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
@@ -153,6 +153,5 @@
             "file": "https://storage.googleapis.com/linear-theater-254209.appspot.com/v5.4animu.me/Naruto-Shippuden/Naruto-Shippuden-Episode-14-1080p.mp4"
                    }]
         },
-        
     ]
 }
