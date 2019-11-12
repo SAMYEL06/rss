@@ -1,0 +1,48 @@
+<VAST version="2.0">
+<Ad id="6143828">
+<InLine>
+<AdSystem>
+<![CDATA[ MediaMind ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Non Linear Static image ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Non Linear Static image ]]>
+</Description>
+<Impression id="Impression">
+<![CDATA[
+//bs.serving-sys.com/BurstingPipe/adServer.bs?cn=riis&pl=VAST&pos=7653&c=24&ai=12604854&pluid=0&ord=301349576&dg=1539684&ta=-1&sessionid=4545580734500719144&pcp=
+]]>
+</Impression>
+<Creatives>
+<Creative id="12604854" AdID="12604854" sequence="1">
+<NonLinearAds>
+<NonLinear id="33961912" height="60" width="320" maintainAspectRatio="true" scalable="true">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[
+//playertest.longtailvideo.com/ads/nonlinear/mediamind-banner.jpg
+]]>
+</StaticResource>
+<NonLinearClickThrough>
+<![CDATA[
+//bs.serving-sys.com/BurstingPipe/adServer.bs?cn=isi&pl=VAST&interactionsStr=12604854~~0^Click.NonLinear.320x60_nonlinear.jpg~0~1~1~0~0~~0&pos=7653&ebRandom=301349576&dg=1539684&ta=-1&sessionid=4545580734500719144&rtu=www.mediamind.com
+]]>
+</NonLinearClickThrough>
+</NonLinear>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[
+//bs.serving-sys.com/BurstingPipe/adServer.bs?cn=isi&pl=VAST&interactionsStr=12604854~~0^CreativeView.NonLinear.320x60_nonlinear.jpg~0~0~1~0~0~~0&pos=7653&ebRandom=301349576&dg=1539684&ta=-1&sessionid=4545580734500719144
+]]>
+</Tracking>
+</TrackingEvents>
+</NonLinearAds>
+</Creative>
+<Creative id="12604854" AdID="12604854" sequence="1">
+<CompanionAds/>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
