@@ -1,17 +1,6 @@
 {
     "playlist": [
         {
-        "mediaid": "ABCDEFG",
-        "title": "NHK World",
-        "description": "Une chaine Japonaise de News",
-        "image": "https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png",
-        "sources": [{
-            "type": "application/vnd.apple.mpegurl",
-            "file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_high2_s.m3u8"
-                   }]
-        },
-        
-        {
         "mediaid": "EEEEEE",
         "title": "ABC News",
         "description": "Une chaine Américaine de News",
