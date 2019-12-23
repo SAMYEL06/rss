@@ -2,181 +2,41 @@
     "playlist": [
         {
         "mediaid": "SHI001",
-        "title": "Naruto Shippuden 01",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "title": "Naruto Spin Off - Rock Lee 01",
+        "image": "https://dw9to29mmj727.cloudfront.net/thumbnails/episodes/4404-naruto-spin-off-1-320x180.jpg",
         "sources": [{
             "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/qrLMn5MT.m3u8"
+            "file": "http://content.jwplatform.com/manifests/PfGDnusU.m3u8"
                    }]
         },
         
         {
         "mediaid": "SHI002",
-        "title": "Naruto Shippuden 02",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "title": "Naruto Spin Off - Rock Lee 02",
+        "image": "https://dw9to29mmj727.cloudfront.net/thumbnails/episodes/4404-naruto-spin-off-1-320x180.jpg",
         "sources": [{
             "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/D5FdK87E.m3u8"
+            "file": "http://content.jwplatform.com/manifests/zw0QCJBe.m3u8"
                    }]
         },
         
          {
         "mediaid": "SHI003",
-        "title": "Naruto Shippuden 03",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "title": "Naruto Spin Off - Rock Lee 03",
+        "image": "https://dw9to29mmj727.cloudfront.net/thumbnails/episodes/4404-naruto-spin-off-1-320x180.jpg",
         "sources": [{
             "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/V1KP7Gzy.m3u8"
+            "file": "http://content.jwplatform.com/manifests/3ObhTCOj.m3u8"
                    }]
         },
         
         {
         "mediaid": "SHI004",
-        "title": "Naruto Shippuden 04",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
+        "title": "Naruto Spin Off - Rock Lee 04",
+        "image": "https://dw9to29mmj727.cloudfront.net/thumbnails/episodes/4404-naruto-spin-off-1-320x180.jpg",
         "sources": [{
             "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/nsKO6WSa.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI005",
-        "title": "Naruto Shippuden 05",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/AKG7cq00.m3u8"
-                   }]
-        },
-        
-         {
-        "mediaid": "SHI006",
-        "title": "Naruto Shippuden 06",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/0QGxOjGB.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI007",
-        "title": "Naruto Shippuden 07",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/5XAtA6tb.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI008",
-        "title": "Naruto Shippuden 08",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/Z5Nq20Mn.m3u8"
-                   }]
-        },
-        
-         {
-        "mediaid": "SHI009",
-        "title": "Naruto Shippuden 09",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/pprGrqc1.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI010",
-        "title": "Naruto Shippuden 10",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/PYetD4c8.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI011",
-        "title": "Naruto Shippuden 11",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/mJZ8tpLH.m3u8"
-                   }]
-        },
-        
-         {
-        "mediaid": "SHI012",
-        "title": "Naruto Shippuden 12",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/3MQixqCg.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI013",
-        "title": "Naruto Shippuden 13",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/GYlzmX6s.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI014",
-        "title": "Naruto Shippuden 14",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/mD47WC3R.m3u8"
-                   }]
-        },
-        
-         {
-        "mediaid": "SHI015",
-        "title": "Naruto Shippuden 15",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/SPXxoFM5.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI016",
-        "title": "Naruto Shippuden 16",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/hY1lJVME.m3u8"
-                   }]
-        },
-        
-        {
-        "mediaid": "SHI017",
-        "title": "Naruto Shippuden 17",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/Zs85gfgN.m3u8"
-                   }]
-        },
-        
-         {
-        "mediaid": "SHI018",
-        "title": "Naruto Shippuden 18",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg/220px-Naruto_-_Shippuden_DVD_season_1_volume_1.jpg",
-        "sources": [{
-            "type": "application/x-mpegURL",
-            "file": "http://content.jwplatform.com/manifests/Ol5nsWAl.m3u8"
+            "file": "http://content.jwplatform.com/manifests/7Dc7Ubcn.m3u8"
                    }]
         }
     ]
